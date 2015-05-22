@@ -1,0 +1,9 @@
+@import "../../bootstrap/stylesheets/_bootstrap.scss";
+
+.contactBox {
+  text-align: left !important;
+  .submit {
+    @extend .btn, .btn-primary;
+  }
+}
+

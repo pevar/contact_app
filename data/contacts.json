@@ -1,0 +1,9 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {"firstName": "Claudio"},
+    {"firstName": "Simona"}
+  ]
+}
